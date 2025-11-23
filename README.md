@@ -10,10 +10,10 @@ I'm a software engineer focused on web apps, developer experience, and open sour
 ---
 
 ## Featured projects
-- *Distillery*: Local proxy for remote APIs — [github.com/jorgepedret/distillery](https://github.com/jorgepedret/distillery) 
-- *Doorkeeper*: Rolodex as a Library or an API — [github.com/jorgepedret/doorkeeper](https://github.com/jorgepedret/doorkeeper)
-- *Harp.js*: Zero-configuration web server with built-in pre-processing — [harp.sh](https://harp.sh)
-- *Land Plan*: Food production landscape manager (In progress) — [github.com/jorgepedret/Land-Plan](https://github.com/jorgepedret/Land-Plan)
+- **Distillery**: Local proxy for remote APIs — [github.com/jorgepedret/distillery](https://github.com/jorgepedret/distillery) 
+- **Doorkeeper**: Rolodex as a Library or an API — [github.com/jorgepedret/doorkeeper](https://github.com/jorgepedret/doorkeeper)
+- **Harp.js**: Zero-configuration web server with built-in pre-processing — [harp.sh](https://harp.sh)
+- **Land Plan**: Food production landscape manager (In progress) — [github.com/jorgepedret/Land-Plan](https://github.com/jorgepedret/Land-Plan)
 
 ---
 
@@ -23,11 +23,11 @@ I'm a software engineer focused on web apps, developer experience, and open sour
 ---
 
 ## 🛠️ Tech & Tools
-*Languages & Frameworks*: JavaScript, TypeScript, HTML, CSS, Node.js, React, PHP, SQL, Redis
-*Tools & Platforms*: Git/GitHub, REST API, Vercel, Docker, Heroku, CI/CD, Notion, Zapier, Google Workspace
-*CMS & Design*: WordPress, Strikingly, Podia, Gumroad, Canva, Photoshop, Illustrator
-*Strengths*: Problem-solving, UX thinking, Documentation, Troubleshooting, Communication
-*Languages*: English (Proficient), Spanish (Native)
+**Languages & Frameworks**: JavaScript, TypeScript, HTML, CSS, Node.js, React, PHP, SQL, Redis
+**Tools & Platforms**: Git/GitHub, REST API, Vercel, Docker, Heroku, CI/CD, Notion, Zapier, Google Workspace
+**CMS & Design**: WordPress, Strikingly, Podia, Gumroad, Canva, Photoshop, Illustrator
+**Strengths**: Problem-solving, UX thinking, Documentation, Troubleshooting, Communication
+**Languages**: English (Proficient), Spanish (Native)
 
 ---
 
