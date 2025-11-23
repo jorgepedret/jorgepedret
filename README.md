@@ -23,11 +23,11 @@ I'm a software engineer focused on web apps, developer experience, and open sour
 ---
 
 ## 🛠️ Tech & Tools
-**Languages & Frameworks**: JavaScript, TypeScript, HTML, CSS, Node.js, React, PHP, SQL, Redis
-**Tools & Platforms**: Git/GitHub, REST API, Vercel, Docker, Heroku, CI/CD, Notion, Zapier, Google Workspace
-**CMS & Design**: WordPress, Strikingly, Podia, Gumroad, Canva, Photoshop, Illustrator
-**Strengths**: Problem-solving, UX thinking, Documentation, Troubleshooting, Communication
-**Languages**: English (Proficient), Spanish (Native)
+- **Languages & Frameworks**: JavaScript, TypeScript, HTML, CSS, Node.js, React, PHP, SQL, Redis
+- **Tools & Platforms**: Git/GitHub, REST API, Vercel, Docker, Heroku, CI/CD, Notion, Zapier, Google Workspace
+- **CMS & Design**: WordPress, Strikingly, Podia, Gumroad, Canva, Photoshop, Illustrator
+- **Strengths**: Problem-solving, UX thinking, Documentation, Troubleshooting, Communication
+- **Languages**: English (Proficient), Spanish (Native)
 
 ---
 
