@@ -1,6 +1,10 @@
 # Hi, I'm Jorge 👋
 
-Full-stack developer and systems builder. I've been building for the web since 2004: web apps, automation, and fast-turnaround websites for small businesses, organizations, and startups. Based on Vancouver Island, BC.
+Full-stack developer & Systems Builder. 
+
+I've been coding since 2004: web apps, automation, and fast-turnaround websites for small businesses, organizations, and startups. 
+
+I'm based on Vancouver Island, BC, Canada.
 
 - 🔭 Currently working on: [Celebrator](https://celebrator.app/), a platform for collecting and publishing client and contributor media, and [Express Website](https://xpweb.site/), fast-turnaround websites and web apps
 - ⚙️ Day to day: AI-assisted development with Claude Code, shipping Next.js + Supabase projects
