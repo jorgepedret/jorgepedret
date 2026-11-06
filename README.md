@@ -24,11 +24,6 @@ Most of these are client or team work, so the code is private. The live sites ar
 
 ---
 
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepedret&layout=compact)
-
----
-
 ## 🛠️ Tech & Tools
 - **Languages**: JavaScript, TypeScript, HTML, CSS
 - **Frameworks & runtime**: Next.js, React, Tailwind, Node.js
